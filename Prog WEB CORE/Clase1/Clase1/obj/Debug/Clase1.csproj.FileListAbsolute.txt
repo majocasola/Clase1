@@ -1,0 +1,8 @@
+F:\Prog WEB CORE\Clase1\Clase1\bin\Debug\Clase1.exe.config
+F:\Prog WEB CORE\Clase1\Clase1\bin\Debug\Clase1.exe
+F:\Prog WEB CORE\Clase1\Clase1\bin\Debug\Clase1.pdb
+F:\Prog WEB CORE\Clase1\Clase1\obj\Debug\Clase1.csproj.AssemblyReference.cache
+F:\Prog WEB CORE\Clase1\Clase1\obj\Debug\Clase1.csproj.SuggestedBindingRedirects.cache
+F:\Prog WEB CORE\Clase1\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+F:\Prog WEB CORE\Clase1\Clase1\obj\Debug\Clase1.exe
+F:\Prog WEB CORE\Clase1\Clase1\obj\Debug\Clase1.pdb
